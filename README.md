@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧾 Fundraising Intern Portal
 
 A simple full-stack portal for fundraising interns to track their referrals, donation amounts, and rankings on a dynamic leaderboard.
@@ -49,3 +50,7 @@ ScreenShots
 
 ✉️ joshikanishka24605@gmail.com
 
+=======
+# FULL-STACK
+HELLO DEVELOPERS AND READERS,I WILL BE SHARING MY ALL CODING OF FRONTEND AND BACKEND FOR VERY BASIC TO ADVANCE LEVEL
+>>>>>>> 8c061449766bd1aa41120bf41839ae556d57fb77
