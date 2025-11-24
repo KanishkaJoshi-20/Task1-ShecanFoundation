@@ -5,6 +5,11 @@ const PORT = 5000;
 
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("Backend is running successfully!");
+});
+
+
 app.get('/user', (req, res) => {
   res.json({
     name: 'Kanishka Joshi',
