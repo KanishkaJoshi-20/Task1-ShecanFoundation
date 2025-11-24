@@ -6,7 +6,7 @@ function Leaderboard() {
   const [leaders, setLeaders] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5000/leaderboard')
+    fetch('https://fundraisingportal-1675.onrender.com/leaderboard')
       .then(res => res.json())
       .then(data => setLeaders(data));
   }, []);
