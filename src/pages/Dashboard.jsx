@@ -5,7 +5,7 @@ function Dashboard() {
     const [userData, setUserData] = useState(null);
 
 useEffect(() => {
-  fetch('https://fundraisingportal-1675.onrender.com/')
+  fetch('https://fundraisingportal-1675.onrender.com/user')
     .then((res) => res.json())
     .then((fetchedData) => {
       console.log("Fetched Data:", fetchedData); // see output
